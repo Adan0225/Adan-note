@@ -91,4 +91,6 @@
 * [18.VPN Study](18.vpn-study.md)
 * [19.WordPress + GCP + SSL](19.wordpress-+-gcp-+-ssl/README.md)
   * [19.1進入由Bitnami Create phpmyAdmin](19.wordpress-+-gcp-+-ssl/19.1-jin-ru-you-bitnami-create-phpmyadmin.md)
+* [20.JMeter 壓力測試](20.jmeter-ya-li-ce-shi/README.md)
+  * [20.1 JMeter 分布式功能啟動多台電腦分壓測試](20.jmeter-ya-li-ce-shi/20.1-jmeter-fen-bu-shi-gong-neng-qi-dong-duo-tai-dian-nao-fen-ya-ce-shi.md)
 
